@@ -8927,7 +8927,7 @@ textarea.form-control {
     width: 40px;
     font-size: 18px;
     padding-top: 2px;
-    color: white; }
+   color:black; }
 
 .block-6 {
   margin-bottom: 40px; }
@@ -9297,8 +9297,9 @@ textarea.form-control {
   
 }
 .foo{
-  color:white;
-
+  color:black;
+  background-color:#ba8249;
+  
 
 }
 .koo{
